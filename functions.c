@@ -9,5 +9,8 @@ int main()
 	c = a-b;
 	
 	c = a*b;
+	
+	c = a/b;
+	
 	return 0;
 }
