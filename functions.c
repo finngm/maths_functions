@@ -2,15 +2,14 @@
 
 int main()
 {
-	int a=5,b=2,c=0;
+	int a,b,c,i;
+
+	while (i<2) {
+	printf("add number of entries:");
+	scanf("%i", &a);
+	}
 	
-	c = a+b;
-	
-	c = a-b;
-	
-	c = a*b;
-	
-	c = a/b;
+	c = ((a+b)/2);
 	
 	return 0;
 }
