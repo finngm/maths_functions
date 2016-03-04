@@ -11,6 +11,8 @@ int main()
 	}
 	
 	c = ((a+b)/2);
+	
+	c = a%b; // a mod b
 
 	return 0;
 }
