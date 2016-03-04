@@ -11,12 +11,6 @@ int main()
 	}
 	
 	c = ((a+b)/2);
-	
-=======
-	c = a%b;
-	printf("%i",c);
-	
-	
->>>>>>> testing
+
 	return 0;
 }
