@@ -11,5 +11,9 @@ int main()
 	
 	c = ((a+b)/2);
 	
+	
+	
+	printf("END OF PROGRAM!!!");
+	
 	return 0;
 }
