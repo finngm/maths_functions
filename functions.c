@@ -11,8 +11,8 @@ int main()
 	
 	c = ((a+b)/2);
 	
-	c = a%b;
-	printf("%i",c);
+	c = a%b; //modded a and b
+	printf("%i, this is the remainder!",c);
 	
 	
 	return 0;
