@@ -4,16 +4,18 @@ int main()
 {
 	int a,b,c,i;
 
-	while (i<2) {
+	while (i<5) {
 	printf("add number of entries:");
 	scanf("%i", &a);
 	}
 	
 	c = ((a+b)/2);
 	
+=======
+	c = a%b;
+	printf("%i",c);
 	
 	
-	printf("END OF PROGRAM!!!");
-	
+>>>>>>> testing
 	return 0;
 }
