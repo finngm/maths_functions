@@ -15,4 +15,11 @@ int main()
 	c = a%b; // a mod b
 
 	return 0;
+	
+	int i=0;
+	while (i<5) {
+	printf("add number of entries:");
+	scanf("%i", &a);
+	i++;
+	}
 }
